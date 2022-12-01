@@ -19,6 +19,8 @@ fn main() -> io::Result<()> {
         }
     }
 
+
+
     // compute and save max
     let mut max_calories = 0;
     for elve in elves {
